@@ -1,7 +1,8 @@
 ---
 layout: frontpage
 title: Luming Chen
-description: I'm a PhD candidate in Finance at UC Irvine. My research interests are Mutual Fund, Financial Market Regulation, Proxy Voting, Machine Learning in Asset Management. 
+description: I'm a PhD candidate in Finance at UC Irvine. 
+My research interests are Mutual Fund,Dealer-Fund Network, Financial Market Regulation, Proxy Voting, Machine Learning in Asset Management. 
 keywords: Dealer-Fund trading relationships, US Corporate Bond Funds
 ---
 
@@ -33,7 +34,7 @@ I'm a PhD candidate in Finance at UC Irvine. My research interests are Mutual Fu
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Luming CV 202009.pdf">cv</a></li>
           <li><a href="https://github.com/luming-chen">GitHub</a></li>
           
       </ul>
