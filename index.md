@@ -7,7 +7,7 @@ keywords: Dealer-Fund trading relationships, US Corporate Bond Funds
 
 I'm a PhD candidate in Finance at UC Irvine. My research interests are Mutual Fund, Financial Market Regulation, Proxy Voting, Machine Learning in Asset Management. 
 
-[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
+[curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Luming CV 202009.pdf)<br/>
 
 
 ---
